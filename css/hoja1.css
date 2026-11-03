@@ -1,0 +1,23 @@
+.titulo {color: yellow;
+font-size: 75px;
+text-align: center;
+text-decoration: underline;
+text-decoration-color:yellow;
+text-decoration-style: dashed; }
+.amarillo {color: yellow;}
+.referencia {width: 500px;
+height: 400px;}
+body {background-color: black;
+color: white;}
+.ingredientes {color: purple;
+font-size: 30px;}
+.preparacion {color: cyan;
+font-size: 30px;}
+.superior {text-align: center;
+  color: red;
+  font-size: 35px;}
+h2 {color: pink;
+font-size: 45px;
+text-align: center;}
+h3 {color: green;
+font-size: 40px}
