@@ -54,6 +54,11 @@ header {
   grid-template-columns: repeat(2, 100px);
   gap: 15px;
 }
+nav {
+  background-color:#080E42;
+  margin-top: 10px;
+  padding:50px;
+}
 footer {
   background-color: #080E42;
     color: #fff;
@@ -116,9 +121,4 @@ footer {
 
 .contactos{
   background-color: pink;
-}
-nav {
-  background-color:#080E42;
-  margin-top: 10px;
-  padding:50px;
 }
