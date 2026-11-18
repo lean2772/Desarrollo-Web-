@@ -59,10 +59,11 @@ footer {
     color: #fff;
     padding: 30px 20px;
     display: flex;
-    justify-content: space-between;
+    justify-content: center;
     align-items: flex-start;
     gap: 30px;
     font-family: Arial, sans-serif;
+    flex-wrap: wrap;
 }
 .columna1 {
   flex: 1;
@@ -80,9 +81,10 @@ footer {
   display: grid;
   grid-template-columns: repeat(2, 100px);
   gap: 15px;
-  justify-content: center;
+  justify-content: flex-start;
   align-content: center;
   padding-top: 20px;
+  padding-right: 50px;
 }
 .icono img {
   width: 100%;
@@ -107,4 +109,16 @@ footer {
 .momotxt {
   text-align: center;
   font-size: 30px;
+}
+.contactoss {
+  background-color: #FE8AAB;
+}
+
+.contactos{
+  background-color: pink;
+}
+nav {
+  background-color:#080E42;
+  margin-top: 10px;
+  padding:50px;
 }
